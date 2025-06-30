@@ -1,0 +1,46 @@
+/brand-bazaar/ - done 
+├── admin/ - done 
+│   ├── dashboard.php - done 
+│   ├── products/ - done 
+│   │   ├── add.php - done 
+│   │   ├── edit.php - done 
+│   │   └── list.php - done 
+│   ├── orders/ - done 
+│   │   └── list.php
+│   ├── users/ - done 
+│   │   └── list.php
+│   ├── messages.php - done 
+│   ├── signin.php - done 
+│   └── logout.php - done 
+├── assets/ - done 
+│   ├── css/ - done 
+│   │   ├── style.css - done 
+│   │   └── admin.css - done 
+│   ├── js/ - done 
+│   │   ├── main.js - done 
+│   │   └── admin.js - done 
+│   └── images/ - done 
+├── includes/ - done 
+│   ├── config.php - done 
+│   ├── header.php
+│   ├── footer.php
+│   ├── auth.php - done 
+│   └── functions.php - done 
+├── index.php - done 
+├── signup.php - done 
+├── signin.php - done 
+├── logout.php - done 
+├── profile.php
+├── wishlist.php - done 
+├── trending.php - done 
+├── tracking.php - done 
+├── purchase.php - done 
+├── payment.php - done 
+├── order-details.php - done 
+├── myorders.php - done 
+├── checkout.php - done 
+├── cart.php - done 
+├── contact.php - done 
+├── product.php - done 
+├── search.php - done 
+└── database.sql - done 
